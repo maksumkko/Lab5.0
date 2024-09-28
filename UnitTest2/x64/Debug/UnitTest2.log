@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Users\maxga\source\repos\Lab5.1\UnitTest2\UnitTest2.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest2.cpp')
+  
+     Creating library C:\Users\maxga\source\repos\Lab5.1\x64\Debug\UnitTest2.lib and object C:\Users\maxga\source\repos\Lab5.1\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\maxga\source\repos\Lab5.1\x64\Debug\UnitTest2.dll
